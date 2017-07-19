@@ -6,6 +6,10 @@
           <option name="url" value="git@bitbucket.org:appsinnovateandroid/jamalook-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="heat9070@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\DEV" />
