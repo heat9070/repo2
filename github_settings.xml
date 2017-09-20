@@ -1,0 +1,6 @@
+<application>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="heat9070" />
+    <option name="AUTH_TYPE" value="BASIC" />
+  </component>
+</application>
